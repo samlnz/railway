@@ -1,0 +1,2 @@
+web: gunicorn main:app
+admin: python admin_panel.py
